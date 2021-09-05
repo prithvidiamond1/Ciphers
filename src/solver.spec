@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['solver.py'],
-             pathex=['/home/prithvi/Documents/Rahul_ciphers/Ciphers/src'],
+             pathex=['/home/prithvidiamond1/Documents/Ciphers/src'],
              binaries=[],
              datas=[],
              hiddenimports=[],
